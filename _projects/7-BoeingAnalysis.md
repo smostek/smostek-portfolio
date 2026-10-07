@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Boeing Analysis
+title: Engineering Ethics
 description: MAE 4300 Project Writeup
 technologies: [N/A]
 image: /assets/images/Boeing.png
@@ -14,10 +14,10 @@ In the last 20 years, there have been 330 deaths on commercial airline flights i
 
 How do such tragic mistakes occur? As with most things resulting from human action, the answer is that a large effect was generated from the combined effect of myriad small decisions.
 
-*This write-up and its placement on this website was an assignment for MAE 4300 Engineers and Society. It probably doesn't need to be on my portfolio website anymore, but it's decently written so I don't see any reason to remove it.*
+*This write-up and its placement on this website was an assignment for MAE 4300 Engineers and Society. I have chosen to leave it on the website as a record of how I analyze problems and of my commitment to thinking critically about systems both technical and political.*
 
 #### History
-In 2010, Airbus released the A320neo, delivering significant fuel efficiency benefits -- a benefit not only to the environment but also to airlines' fuel costs -- and consequently placing pressure on Boeing to deliver a competitve design. The result was the 737 Max.
+In 2010, Airbus released the A320neo, delivering significant fuel efficiency benefits -- a benefit not only to the environment but also to airlines' fuel costs -- which consequently placed pressure on Boeing to deliver a competitve design. The result was the 737 Max.
 
 Within aviation design, the general trend is for larger engines to be more efficient -- they require less pressure to generate the same amount of thrust force. The tradeoff of course, is that larger engines weigh more and create more drag. So as knowledge of aerodynamics and structural mechanics has grown, so too have airplane engines.
 

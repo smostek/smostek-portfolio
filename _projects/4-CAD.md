@@ -10,7 +10,7 @@ The course project of *MAE 2250 Introduction to Mechanical Deisgn* was a group a
 I've been playing the trombone at various degrees of rigor since elementary school, and one of the fundamental skills of the instrument that takes a long time to develop is slide control: it is very easy to put the slide in the wrong place and end up playing something very out of tune. So I designed a device that would attach onto the instrument and provide tactile feedback regarding the slide position. The main design challenges were
 
 1. **Adjustability:** every trombone is different, so the feedback mechanism needs to be easily adjusted, ideally while holding the horn, but be resistant to accidental movement.
-2. **Stability:** there isn't very much area on or around the trombone to attach something the length of the slide, so a rigid and impermanent connection needs to be established using very few points of contact.
+2. **Stability:** there isn't very much area on or around the trombone to attach something the length of the slide, so a rigid, impermanent connection needs to be established using very few points of contact.
 3. **Portability:** both for the sake of manufacturing and end user convenience, the device should be constructed out of smaller segments that can easily be connected to reach the roughly 30" final length.
 
 Fortunately, from a mechanical perspective, these challenges were able to be addressed mostly independently with the design elements as follows

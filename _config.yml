@@ -23,6 +23,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  jobs:
+    output: true
+    permalink: /:collection/:path/
 
 # Markdown
 markdown: kramdown
