@@ -3,7 +3,7 @@ layout: project
 title: Engineering Ethics
 description: MAE 4300 Project Writeup
 technologies: [N/A]
-image: /assets/images/Boeing.png
+image: /assets/images/boeing.png
 ---
 
 On 29 October, 2018, Lion Air Flight 610, carried by a Boeing 737 Max 8, crashed off the coast of Java.
